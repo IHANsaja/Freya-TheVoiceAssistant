@@ -34,7 +34,7 @@ Freya v2.0 is a powerful AI voice assistant designed to simplify your daily task
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Replace file paths in `main.py` to match your local programs.
+3. Replace file paths in `main.py` to run your local programs.
 4. Run the script: `python main.py` to activate Freya and start interacting.
 
 **Contributions:**
