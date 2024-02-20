@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/:Python-v3.11)
+
 ✨ Freya v2.0 - AI Voice Assistant with Chatbot ✨
 
 **Description:**
