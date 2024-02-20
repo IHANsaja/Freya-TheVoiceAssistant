@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/Python-v3.11-#3776AB?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/Python-v3.11-3776AB?style=for-the-badge&logo=Python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-keras-FF6F00?style=for-the-badge&logo=TensorFlow) ![Freya](https://img.shields.io/badge/Freya-v2.11-CC0000?style=for-the-badge&logo=Dependabot)
+
 
 ✨ Freya v2.0 - AI Voice Assistant with Chatbot ✨
 
