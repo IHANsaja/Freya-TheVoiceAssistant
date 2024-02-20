@@ -7,8 +7,11 @@ Freya v2.0 is a powerful AI voice assistant designed to simplify your daily task
 **Features:**
 
 ️ **Voice Commands:** Control your computer, open applications, and perform tasks using voice commands.
+
  **Chatbot Interaction:** Engage in natural language conversations with Freya's integrated chatbot, making interactions more dynamic and enjoyable.
+ 
  **Task Automation:** Launch applications, search the web, and perform various tasks seamlessly through voice commands.
+ 
  **Entertainment:** Ask Freya to play music on YouTube or fetch information from Google to keep you entertained.
 
 **Technology Stack:**
