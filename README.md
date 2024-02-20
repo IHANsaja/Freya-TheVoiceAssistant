@@ -22,7 +22,7 @@ Freya v2.0 is a powerful AI voice assistant designed to simplify your daily task
 *   Python
 *   SpeechRecognition
 *   PyAudio
-*  🪄 PyWhatKit
+*   PyWhatKit
 *   TensorFlow/Keras (for the integrated chatbot)
 *   pickle
 *   pyttsx3
