@@ -49,6 +49,10 @@ Freya is a personal project for educational and personal use. Please review and 
 
 This project is intellectual property of Ihan Hansaja - see `LICENSE.md` for details.
 
+**NEW UPDATE**
+
+Coming Soon...
+
 **Contact:**
 
 For inquiries or suggestions, reach out at ihanhansaja5@gmail.com.
